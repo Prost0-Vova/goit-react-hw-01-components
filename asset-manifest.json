@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Prost0-Vova.github.io/goit-react-hw-01-components/static/css/main.536d23d0.css",
+    "main.js": "/Prost0-Vova.github.io/goit-react-hw-01-components/static/js/main.a2120c0f.js",
+    "index.html": "/Prost0-Vova.github.io/goit-react-hw-01-components/index.html",
+    "main.536d23d0.css.map": "/Prost0-Vova.github.io/goit-react-hw-01-components/static/css/main.536d23d0.css.map",
+    "main.a2120c0f.js.map": "/Prost0-Vova.github.io/goit-react-hw-01-components/static/js/main.a2120c0f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.536d23d0.css",
+    "static/js/main.a2120c0f.js"
+  ]
+}
