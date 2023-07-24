@@ -1,6 +1,6 @@
 import React from 'react';
 import Profile from './components/ProfileCard';
-import user from './data/user.json'
+import user from './data/user.json';
 import data from './data/data.json';
 import Statistics from './components/Statistics';
 import friend from './data/friends.json';
